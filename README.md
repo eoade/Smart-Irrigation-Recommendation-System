@@ -416,9 +416,3 @@ Language: Python
 Model: Random Forest Classifier
 
 Decision Approach: Probability + Expected Cost
-
----
-
-## License
-
-This project is intended for educational and demonstration purposes.
